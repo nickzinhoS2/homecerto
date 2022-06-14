@@ -1,0 +1,33 @@
+
+.glider-contain {
+    display: grid;
+    grid-template-areas: 
+    nov0 nov1 nov2 ;
+    padding: 8rem;
+  
+}
+
+.titulo{
+    text-align: center;
+    
+}
+
+.color2{
+    color: #b22222;
+}
+
+.nov0{
+    border: #000 solid 2px;
+}
+
+.nov1{
+    border: #b22222 solid 2px;
+}
+
+.nov2{
+    border: #000 solid 2px;
+}
+
+    
+
+
