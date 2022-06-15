@@ -1,7 +1,11 @@
+
+
 body{
     margin: 0;
     background: linear-gradient(gray,black);
+    
 }
+
 
 a{
     color:#b22222;
@@ -12,7 +16,7 @@ a{
     background-color: #000000;
     width: 100%;
     position: fixed;
-    opacity: 0.90;
+    opacity: 0.89;
     z-index: 999;
 }
 
@@ -32,7 +36,7 @@ a{
 .caixa-ul{
     display: flex;
     list-style-type: none;
-    margin: 0 90px 0 124px;
+    margin: 0px 90px 0 124px;
 }
 
 .caixa-li{
@@ -52,9 +56,9 @@ a{
 }
 
 .pesquisa input{
-    background-image: url(./img/lupa.png);
+    background-image: url(lupa.png);
     background-size: 10%;
     background-repeat: no-repeat;
     background-position: 94%;
     height: 22px;
-}
+}   

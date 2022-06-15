@@ -8,7 +8,7 @@
     left: 0;
     object-fit: cover;
     object-position: top;
-    z-index: 999;
+    
 }
 
 .preview-info {
@@ -30,3 +30,4 @@
     font-size: calc(0.8rem + 1vw);
     width: 100%;
 }
+

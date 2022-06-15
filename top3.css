@@ -4,7 +4,6 @@
     grid-template-areas: 
     nov0 nov1 nov2 ;
     padding: 8rem;
-  
 }
 
 .titulo{
@@ -20,12 +19,22 @@
     border: #000 solid 2px;
 }
 
+.nov0:hover{
+    border: #b22222 solid 2px;
+}
+
 .nov1{
+    border: #000 solid 2px;
+}
+.nov1:hover{
     border: #b22222 solid 2px;
 }
 
 .nov2{
     border: #000 solid 2px;
+}
+.nov2:hover{
+    border: #b22222 solid 2px;
 }
 
     
