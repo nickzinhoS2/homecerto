@@ -5,8 +5,7 @@
     font-size: 16px;
     border-radius: 3px;
     cursor: grab;
-    padding: 0;
-    background-color: red;
+    background: linear-gradient(rgb(24, 22, 22),red);
     color: aliceblue;
     padding: 7px 10px;
 }
@@ -16,17 +15,17 @@
     font-size: 16px;
     border-radius: 3px;
     cursor: grab;
-    padding: 0;
-    background-color: red;
+    background: linear-gradient(rgb(24, 22, 22),red);
     color: aliceblue;
     padding: 7px 10px;
 }
 
 .preview-action :hover{
     border: none;
-    transition: 1s;
-    background-color: red;
+    transition: 0.90s;
+    background: linear-gradient(rgb(24, 22, 22),red);
     padding:7px 25px;
     border-radius: 5px;
     color: white;
 }
+

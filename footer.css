@@ -24,7 +24,7 @@ footer{
 }
 
 .redes{
-    margin: 30px;
+    margin: 30px 70px 0 0;
     text-align: end;
     justify-items: end;
     align-items: flex-end;
@@ -32,7 +32,7 @@ footer{
 
 .escrita{
     text-align: right;
-    margin: 20px;
+    margin: 20px 15px 6px 0;
 }
 
 .fotoLocalização{
@@ -76,4 +76,8 @@ li{
 
 .ifood{
     width: 60px;
+}
+
+a{
+    color: red;
 }

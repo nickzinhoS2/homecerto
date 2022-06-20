@@ -3,11 +3,11 @@
     display: grid;
     grid-template-areas: 
     nov0 nov1 nov2 ;
-    padding: 8rem;
+    margin: 5rem 0 7rem 16rem;
 }
 
 .titulo{
-    text-align: center;
+    margin-left: 16rem;
     
 }
 
@@ -16,25 +16,33 @@
 }
 
 .nov0{
-    border: #000 solid 2px;
+    border: #000 solid 3px;
+    width: 37%;
+    margin-right: 20px;
+    
 }
 
 .nov0:hover{
-    border: #b22222 solid 2px;
+    border: #b22222 solid 3px;
 }
 
 .nov1{
-    border: #000 solid 2px;
+    border: #000 solid 3px;
+    width: 37%; 
+    margin-right: 20px;
 }
 .nov1:hover{
-    border: #b22222 solid 2px;
+    border: #b22222 solid 3px;
 }
 
 .nov2{
-    border: #000 solid 2px;
+    border: #000 solid 3px;
+    width: 288px;
+    height: 181px;
+
 }
 .nov2:hover{
-    border: #b22222 solid 2px;
+    border: #b22222 solid 3px;
 }
 
     
