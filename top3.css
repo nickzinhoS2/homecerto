@@ -3,11 +3,11 @@
     display: grid;
     grid-template-areas: 
     nov0 nov1 nov2 ;
-    margin: 5rem 0 7rem 16rem;
+    margin: 0 10rem 7rem 10rem;
 }
 
 .titulo{
-    margin-left: 16rem;
+    margin-left: 23rem;
     
 }
 
@@ -17,7 +17,7 @@
 
 .nov0{
     border: #000 solid 3px;
-    width: 37%;
+    width: 30%;
     margin-right: 20px;
     
 }
@@ -28,7 +28,7 @@
 
 .nov1{
     border: #000 solid 3px;
-    width: 37%; 
+    width: 30%; 
     margin-right: 20px;
 }
 .nov1:hover{
@@ -37,8 +37,8 @@
 
 .nov2{
     border: #000 solid 3px;
-    width: 288px;
-    height: 181px;
+    width: 30%;
+    margin-right: 20px;
 
 }
 .nov2:hover{
